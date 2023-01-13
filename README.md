@@ -1,4 +1,4 @@
-# Hi there👋, I'm Saikumar Molleti
+<!-- # Hi there👋, I'm Saikumar Molleti
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=saikumarmolleti&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarmolleti&layout=compact"/>
 <br><br><br>
@@ -10,7 +10,7 @@
 <img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
+ -->
 
 <!-- <img align="left" width="47%" src=""/>
 <img align="left" width="47%" src=""/> -->
